@@ -1,0 +1,9 @@
+{
+	"name": "norbertkranitz/gophry-security",
+	"require": {},
+    "autoload": {
+		"psr-4": {
+			"Gophry\\Security\\": "src/Gophry/Security/"
+		}
+	}
+}
